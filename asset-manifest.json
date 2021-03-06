@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test-react/static/css/main.6c0dabf0.chunk.css",
+    "main.js": "/test-react/static/js/main.45c4241d.chunk.js",
+    "main.js.map": "/test-react/static/js/main.45c4241d.chunk.js.map",
+    "runtime-main.js": "/test-react/static/js/runtime-main.ad023c1f.js",
+    "runtime-main.js.map": "/test-react/static/js/runtime-main.ad023c1f.js.map",
+    "static/js/2.68605272.chunk.js": "/test-react/static/js/2.68605272.chunk.js",
+    "static/js/2.68605272.chunk.js.map": "/test-react/static/js/2.68605272.chunk.js.map",
+    "static/js/3.1f823bde.chunk.js": "/test-react/static/js/3.1f823bde.chunk.js",
+    "static/js/3.1f823bde.chunk.js.map": "/test-react/static/js/3.1f823bde.chunk.js.map",
+    "index.html": "/test-react/index.html",
+    "static/css/main.6c0dabf0.chunk.css.map": "/test-react/static/css/main.6c0dabf0.chunk.css.map",
+    "static/js/2.68605272.chunk.js.LICENSE.txt": "/test-react/static/js/2.68605272.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/test-react/static/media/chrestyk.0e1cfe21.png",
+    "static/media/chrestyk2.00445d62.svg": "/test-react/static/media/chrestyk2.00445d62.svg",
+    "static/media/litopys.b2819d6a.png": "/test-react/static/media/litopys.b2819d6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad023c1f.js",
+    "static/js/2.68605272.chunk.js",
+    "static/css/main.6c0dabf0.chunk.css",
+    "static/js/main.45c4241d.chunk.js"
+  ]
+}
